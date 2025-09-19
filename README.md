@@ -1,48 +1,49 @@
-🌐 Web Development Internship Projects – Skillcraft
+# 🌐 Skillcraft Web Development Internship Projects  
 
-This repository contains the projects I developed as part of my Skillcraft Web Development Virtual Internship. It highlights my journey in frontend development through practical, hands-on tasks.
+This repository contains the projects I built during my **Skillcraft Virtual Internship in Web Development**. The internship focused on developing **interactive and responsive frontend applications** using **HTML, CSS, and JavaScript**.  
 
-📄 Project Overview
+---
 
-The internship focused on building small but impactful web applications using HTML, CSS, and JavaScript.
-Key projects included:
+## 📄 Project Overview  
 
-Interactive Navigation Menu – A fixed-position navigation bar with hover and scroll effects.
+As part of this internship, I completed **four practical projects**:  
 
-Stopwatch Application – Stopwatch with start, pause, reset, and lap-time tracking.
+1. **Interactive Navigation Menu**  
+   - Fixed-position navigation bar visible on all pages.  
+   - Changes color/style on hover and scroll for enhanced UX.  
 
-Multiple-Choice Quiz Game – Quiz system with interactive questions, scoring, and a vibrant UI.
+2. **Stopwatch Application**  
+   - Stopwatch with **start, pause, reset, and lap-time features**.  
+   - Implemented using **JavaScript timing functions and DOM manipulation**.  
 
-To-Do Application – Task manager to add, edit, mark complete, and set deadlines.
+3. **Multiple-Choice Quiz Game**  
+   - Interactive quiz supporting different question types.  
+   - Provides **real-time score evaluation** with vibrant UI styling.  
 
-🧠 What I Learned
+4. **To-Do Application**  
+   - Task manager with **add, edit, delete, and mark complete** features.  
+   - Supports setting **date and time deadlines** for tasks.  
 
-Through this internship, I gained experience in:
+---
 
-Writing structured and semantic HTML.
+## 🧠 Key Learnings  
 
-Styling web pages with modern CSS.
+- Building clean, semantic **HTML5 structures**  
+- Styling with **modern CSS3** (flexbox, responsive design, hover effects)  
+- Implementing interactivity via **JavaScript ES6+** (events, DOM manipulation)  
+- Creating user-friendly, dynamic web applications  
 
-Adding interactivity with JavaScript (DOM manipulation & events).
+---
 
-Creating responsive and user-friendly interfaces.
+## 🚀 Technologies Used  
 
-🚀 Technologies Used
+- **HTML5** – Structure & markup  
+- **CSS3** – Styling & layout design  
+- **JavaScript (ES6+)** – Functionality & interactivity  
+- **VS Code** – Development environment  
+- **Live Server** – Local preview  
 
-HTML5
+---
 
-CSS3
+  
 
-JavaScript (ES6+)
-
-VS Code (Editor)
-
-Live Server (for local preview)
-
-🧾 Files Included
-
-index.html – Main page of each project
-
-style.css – Custom styles for UI/UX
-
-script.js – JavaScript functionality (for interactive projects)
