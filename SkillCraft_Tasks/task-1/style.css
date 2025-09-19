@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Fixed navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: transparent;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  transition: background-color 0.3s;
+}
+
+/* Navbar links */
+.navbar a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect */
+.navbar a:hover {
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+}
+
+/* Change color when scrolled */
+.scrolled {
+  background-color: #333;
+}
+
+.scrolled a {
+  color: white;
+}
+
+/* Page content */
+section {
+  height: 100vh;
+  padding: 80px 20px;
+}
+
+#home { background: lightblue; }
+#about { background: lightgreen; }
+#services { background: lightyellow; }
+#contact { background: lightpink; }
